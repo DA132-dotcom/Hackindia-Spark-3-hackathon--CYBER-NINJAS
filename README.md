@@ -9,7 +9,8 @@ Current technologies for emotion detection are often resource-intensive, requiri
 *Objective:*  
 To develop an Emotion-Aware Surveillance System that enhances traditional surveillance by integrating real-time emotion detection. The system should be capable of detecting emotions from facial expressions, providing immediate audio feedback or alerts based on the detected emotions. This integration aims to improve the effectiveness of security measures, enhance customer experience in commercial settings, and offer new tools for monitoring mental health in various environments.
 ![Screenshot 2024-08-28 083108](https://github.com/user-attachments/assets/069a8e7b-2c82-48e5-9ebd-d2506e63e68a)
-![Screenshot 2024-08-28 083108 - Copy](https://github.com/user-attachments/assets/720eefe3-3c78-4041-9059-e032318cd844)
+![Screenshot 2024-08-28 083018](https://github.com/user-attachments/assets/7c1520b3-1d20-4eb9-a163-b4d0d8b4e5ff)
+
 *Libraries installed*
 open cv
 cv2
